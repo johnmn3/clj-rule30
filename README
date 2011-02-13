@@ -1,0 +1,8 @@
+# clj-rule30
+
+Automata as described on: http://sexp.posterous.com/a-whole-lotta-automata
+
+* Improvement the wrap-sub function, called cycle-partition.
+* Added pretty print with " " and "#"
+* Added print to image in clj-rule30.image
+
